@@ -6,6 +6,8 @@ Place the color scheme file into:
 
 You will have to create this directory if it doesn't yet exist.
 
+Make the file executable with chmod or using Get Info in Finder (Sharing and Permissions).
+
 Restart Xcode if it is running.
 Then select the color scheme file inside Xcode by choosing
 Xcode->Preferences->Fonts and Colors.
