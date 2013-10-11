@@ -46,7 +46,8 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E1BD5D</string>
+				<!sandy text - literals in Prolog etc>
+				<string>#FFAF08</string>
 			</dict>
 		</dict>
 		<dict>
@@ -59,7 +60,8 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#BA7C3F</string>
+				<!orange - functions in Prolog>
+				<string>#E1BD5D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -72,7 +74,8 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFAF08</string>
+				<!brownish orange - operators in Prolog>
+				<string>#BA7C3F</string>
 			</dict>
 		</dict>
 		<dict>
