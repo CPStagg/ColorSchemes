@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Michael Sheets</string>
+	<string>Ceri Stagg</string>
 	<key>name</key>
-	<string>Twilight</string>
+	<string>SolarizedCPS</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -46,7 +46,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<!sandy text - literals in Prolog etc>
+				<!--sandy text - literals in Prolog etc-->
 				<string>#FFAF08</string>
 			</dict>
 		</dict>
@@ -60,7 +60,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<!orange - functions in Prolog>
+				<!--orange - functions in Prolog-->
 				<string>#E1BD5D</string>
 			</dict>
 		</dict>
@@ -74,7 +74,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<!brownish orange - operators in Prolog>
+				<!--brownish orange - operators in Prolog-->
 				<string>#BA7C3F</string>
 			</dict>
 		</dict>
